@@ -45,7 +45,5 @@ Opens at `http://localhost:8501`
 
 All data from [Our World in Data](https://ourworldindata.org), sourced from UNESCO and the World Bank. Most recent available year is 2023 due to the standard reporting lag on global education surveys.
 
-## Notes
 
-- The Colab notebook must be run before the dashboard — it generates the database
-- Data collection uses a custom user-agent header to avoid 403 errors from OWID
+
